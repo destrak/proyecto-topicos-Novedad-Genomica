@@ -30,10 +30,13 @@ tal como se solicita en el enunciado.
 
 Desde la carpeta raíz del repositorio:
 
-g++ -O2 -std=c++17 minimizers.cpp  -o minimizers
-g++ -O2 -std=c++17 hll.cpp         -o hll
-g++ -O2 -std=c++17 catalogo.cpp    -o catalogo
-g++ -O2 -std=c++17 compararhll.cpp -o compararhll
+g++  minimizers.cpp -o minimizers
+
+g++ hll.cpp -o hll
+
+g++  catalogo.cpp -o catalogo
+
+g++  compararhll.cpp -o compararhll
 
 ---
 
