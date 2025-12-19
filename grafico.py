@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 matplotlib.use("Agg")
 
 # Cargar CSV de Streptococcus
-df = pd.read_csv("streptococcus7001.csv")
+df = pd.read_csv("resultados streptococcus/streptococcus7001.csv")
 
 # ==========================
 # 1. Histograma de rho
