@@ -70,7 +70,7 @@ Parámetros solicitados:
 
 Parámetros solicitados:
 - carpeta con sketches .hll
-- nombre del archivo del catálogo
+- nombre del archivo del catálogo (debe terminar si o si en .hll)
 - número de genomas a seleccionar (N)
 
 Salidas:
